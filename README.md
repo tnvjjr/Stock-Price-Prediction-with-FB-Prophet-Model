@@ -1,4 +1,4 @@
-# Stock Price Prediction with Facebook Prophet
+# Stock Price Prediction using Machine Learning
 A modern web application that predicts stock prices using Facebook's Prophet forecasting model, providing accurate time-series predictions with interactive visualizations.
 
 <img width="1705" alt="Screenshot 2024-12-13 at 5 49 12 PM" src="https://github.com/user-attachments/assets/2cc86175-b3b1-4eef-8d9d-ebdbf0c9a837" />
